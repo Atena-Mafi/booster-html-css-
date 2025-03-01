@@ -152,7 +152,7 @@ margin-top: 15px;
  .design{
     width: 100%;
     min-height: 200px;
-       background: url(./images/bg-curve-desktop.svg);
+       background: url(./bg-curve-desktop.svg);
 
        background-size:cover;
        background-repeat: no-repeat;
@@ -709,7 +709,7 @@ font-size: small;
      .design{
         width: 100%;
         min-height: 50px;
-           background: url(./images/bg-curve-mobile.svg);
+           background: url(./bg-curve-mobile.svg);
     
            background-size:cover;
            background-repeat: no-repeat;
